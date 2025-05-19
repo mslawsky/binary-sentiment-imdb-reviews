@@ -1,11 +1,11 @@
 # IMDb Sentiment Analysis 🎬 
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-blue.svg)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-2.x-green.svg)](https://keras.io/)
-[![Python](https://img.shields.io/badge/Python-3.6+-purple.svg)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-2.x-blue.svg)](https://keras.io/)
+[![Python](https://img.shields.io/badge/Python-3.6+-green.svg)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.19+-blue.svg)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.1+-green.svg)](https://pandas.pydata.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-blue.svg)](https://jupyter.org/)
 [![TensorFlow Embedding Projector](https://img.shields.io/badge/Embedding%20Projector-TensorBoard-blueviolet.svg)](https://projector.tensorflow.org/)
 
 
