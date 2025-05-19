@@ -82,6 +82,8 @@ Visualize the learned word embeddings with the [TensorFlow Embedding Projector](
 2. Upload the generated `vectors.tsv` and `metadata.tsv` files to the Embedding Projector.
 3. Explore relationships and clusters in the embedding space.
 
+![Embedding Projector Demo](demo.gif)
+
 ---
 
 ## Future Work 🌱 
